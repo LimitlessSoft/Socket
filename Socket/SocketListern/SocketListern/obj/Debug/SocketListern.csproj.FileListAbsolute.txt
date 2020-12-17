@@ -1,0 +1,7 @@
+C:\Users\mihaj\source\repos\SocketListern\SocketListern\bin\Debug\SocketListern.exe.config
+C:\Users\mihaj\source\repos\SocketListern\SocketListern\bin\Debug\SocketListern.exe
+C:\Users\mihaj\source\repos\SocketListern\SocketListern\bin\Debug\SocketListern.pdb
+C:\Users\mihaj\source\repos\SocketListern\SocketListern\obj\Debug\SocketListern.csprojAssemblyReference.cache
+C:\Users\mihaj\source\repos\SocketListern\SocketListern\obj\Debug\SocketListern.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\SocketListern\SocketListern\obj\Debug\SocketListern.exe
+C:\Users\mihaj\source\repos\SocketListern\SocketListern\obj\Debug\SocketListern.pdb
