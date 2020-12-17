@@ -1,0 +1,10 @@
+C:\Users\mihaj\source\repos\SocketSender\SocketSender\bin\Debug\SocketSender.exe.config
+C:\Users\mihaj\source\repos\SocketSender\SocketSender\bin\Debug\SocketSender.exe
+C:\Users\mihaj\source\repos\SocketSender\SocketSender\bin\Debug\SocketSender.pdb
+C:\Users\mihaj\source\repos\SocketSender\SocketSender\obj\Debug\SocketSender.csprojAssemblyReference.cache
+C:\Users\mihaj\source\repos\SocketSender\SocketSender\obj\Debug\SocketSender.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\SocketSender\SocketSender\obj\Debug\SocketSender.exe
+C:\Users\mihaj\source\repos\SocketSender\SocketSender\obj\Debug\SocketSender.pdb
+C:\Users\mihaj\source\repos\SocketSender\SocketSender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mihaj\source\repos\SocketSender\SocketSender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mihaj\source\repos\SocketSender\SocketSender\obj\Debug\SocketSender.csproj.CopyComplete
