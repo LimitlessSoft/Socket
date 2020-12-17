@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace SocketListener
 {
-    class Listeren
+    class Listener
     {
         public static List<string> receivedData = new List<string>();
         private static IPHostEntry _host;
