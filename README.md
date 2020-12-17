@@ -1,9 +1,9 @@
-# Socket Listeren
+# Socket Listener
 
 Two mini applications that communicate with each other via the port.
 
 
-#Socket Listeren
+#Socket Listener
 A class that serves specific ports and data about the data that is sent.
 
 **public static void SetUp(int port = 11000, string nameHost = "localhost", string folder = "/PortParameters", string file = "/smsPort.txt")**
